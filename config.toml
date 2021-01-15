@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "A Hugo website test"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -40,4 +40,3 @@ publishDir = "docs"
     width = 50
     height = 50
     alt = "Logo"
-
