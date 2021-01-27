@@ -2,7 +2,7 @@ baseURL: http://trye.io/
 languageCode: en-us
 title: Hugo Fresh Theme
 theme: hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: UA-188253655-1
 publishDir: docs
 # Disables warnings
 disableKinds:
