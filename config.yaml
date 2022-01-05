@@ -58,15 +58,16 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
-      # Icons are from Font Awesome
-      icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
+    - link: https://www.facebook.com/tryeio-110131711547523
       icon: facebook
-    - link: https://twitter.com/lucperkins
+    - link: https://discord.gg/dt3mc4YjKn
+      icon: discord
+    - link: https://www.instagram.com/trye_io/
+      icon: instagram
+    - link: https://www.twitch.tv/tryeofficial
+      icon: twitch
+    - link: https://github.com/trye-io
+      icon: github
+    - link: https://twitter.com/trye_io
       icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
     bulmalogo: false
