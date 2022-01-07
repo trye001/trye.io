@@ -5,12 +5,15 @@
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     {{ partial "css.html" . }}
     {{ template "_internal/google_analytics.html" . }}
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   </head>
   <body>
     <!-- Preloader -->
     <div id="preloader">
       <div id="status"></div>
     </div>
+
+    {{ partial "banner.html" . }}
 
     {{ block "main" . }}
     {{ end }}

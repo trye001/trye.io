@@ -29,15 +29,30 @@ if (!doNotTrack) {
     
 <link rel="icon" type="image/png" href="/images/favicon.png" />
 <link href="https://fonts.googleapis.com/css?family=Open&#43;Sans:400,600" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="/css/style.min.5c7a1d9eff1acc27137910a541b52bd53f879e671d5985dafb8eedf252166561.css" integrity="sha256-XHodnv8azCcTeRClQbUr1T&#43;HnmcdWYXa&#43;47t8lIWZWE=">
+<link rel="stylesheet" type="text/css" href="/css/style.min.51ba09a831e15b876d1ba1a3867db613e5cccd75d2ec81d9693aaf4a9582f3d7.css" integrity="sha256-UboJqDHhW4dtG6Gjhn22E&#43;XMzXXS7IHZaTqvSpWC89c=">
 <link rel="stylesheet" type="text/css" href="/css/icons.css">
 
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   </head>
   <body>
     
     <div id="preloader">
       <div id="status"></div>
     </div>
+
+    <div class="banner">
+  <div class="banner__content">
+    <div class="banner__text">
+      Receive <strong>10%</strong> discount on all our products by taking <a href="http://tiny.cc/ve9nuz", style = "text-decoration: underline; color: white;">our survey</a> &#127891;
+    </div>
+    <button class="banner__close" type="button">
+      <span class="material-icons">
+        close
+      </span>
+    </button>
+  </div>
+</div>
+
 
     
 
@@ -176,6 +191,11 @@ if (!doNotTrack) {
 <script src="/js/jquery.panelslider.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
 <script src="https://kit.fontawesome.com/146b327b57.js" crossorigin="anonymous"></script>
+<script>
+  document.querySelector(".banner__close").addEventListener("click", function () {
+    this.closest(".banner").style.display = "none";
+  });
+</script>
 
   </body>
 </html>
