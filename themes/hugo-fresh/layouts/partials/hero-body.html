@@ -9,9 +9,9 @@
     <div class="columns is-vcentered">
       <div class="column is-5 is-offset-1 landing-caption">
         <h1 class="title is-1 is-bold is-spaced">
-          {{ $title }}
+          {{ $title | markdownify}}
         </h1>
-        {{ with $subtitle }}
+        {{ with $subtitle | markdownify}}
         <h2 class="subtitle is-5 is-muted">
           {{ . }}
         </h2>
