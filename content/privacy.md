@@ -9,4 +9,6 @@ LAST UPDATED: January 6, 2022
 
 ## Compliance with GDPR
 
+## Compliance with CCPA
+
 ## Sharing your data
