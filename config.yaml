@@ -1,6 +1,6 @@
 baseURL: http://trye.io/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: The data science school that works.
 theme: hugo-fresh
 googleAnalytics: UA-188253655-1
 publishDir: docs
@@ -37,19 +37,21 @@ params:
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
   section2:
-    title: You're here because you want the best
-    subtitle: And we know it
+    title: It's all about engagement
+    subtitle: And we get it
     features:
-    - title: Powerful and unified interface
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Well-though mix between self-paced and cohort-based
+      text: Hey, let's be honest, we all procrastinate. That's why the average completion rate for MOOCs is 5%. We know how tough it is to motivate ourselves every day to study. That's why we believe in the mix between cohort-based and self-paced learning.
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
-    - title: Cross-device synchronisation
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: doc-sync
-    - title: Nomad system
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: mobile-feed
+      icon: cohort
+    - title: Learning by teaching
+      text: >
+        Yeah, we heard so many times "learning by doing", "hands-on skills", "practical skills". Well, we think differently. Our vision is to learn by teaching. As Einstein once said, "If you can't explain it to a six year old, you don't understand it yourself.". And, hey, that's fun! Vice versa, if some concepts are difficult, do not hesitate to ask your mates for help.
+      icon: teaching
+    - title: Personalized learning
+      text: >
+        "Football is cool, but I am more into music. Why your examples are all about football?", "I do not need web-scrapping for my job, I'd rather study SQL in depth", "This concept is too difficult, I just want to understand the main points.". We hear you and we compile the content tailored to your needs. Further, How often do you catch yourself searching the topic in YouTube that you just read in the book? Our perception of various concepts is different -- something is much easier to understand by reading, something -- by watching the video and mimicking the code. That's why we give you the same material in different shapes, and you choose the most appropriate for you.
+      icon: ways
   section5: true
   footer:
     # Logo (from /images/logos/___)
