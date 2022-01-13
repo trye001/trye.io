@@ -50,7 +50,7 @@ params:
       icon: teach
     - title: Personalized learning
       text: >
-        "Football is cool, but I am more into music. Why your examples are all about football?", "I do not need web-scrapping for my job, I'd rather study SQL in depth", "This concept is too difficult, I just want to understand the main points.". We hear you and we compile the content tailored to your needs. Further, How often do you catch yourself searching the topic in YouTube that you just read in the book? Our perception of various concepts is different -- something is much easier to understand by reading, something -- by watching the video and mimicking the code. That's why we give you the same material in different shapes, and you choose the most appropriate for you.
+        "Football is cool, but I am more into music. Why your examples are all about football?", "I do not need web-scrapping for my job, I'd rather study SQL in depth", "This concept is too difficult, I just want to understand the main points.". We hear you and we compile the content tailored to your needs. Further, How often do you catch yourself searching the topic in YouTube that you just read in the book? Our perception of various concepts is different -- something is much easier to understand by reading, something -- by watching the video and mimicking the code. That's why we give you the same material in different shapes (video, illustrations, examples, text, and VR), and you choose the most appropriate for you.
       icon: ways
   section5: true
   footer:
