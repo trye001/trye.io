@@ -5,20 +5,36 @@
 <section class="section section-feature-grey is-medium">
 
   <div class="container">
+    <div class="content-wrapper">
 
-        {{- range $features }}
-        <article class="media icon-box">
-          <img src="{{ printf "/images/illustrations/features/%s.png" .icon | relURL }}" width = "400" height = "200">
-          <div class="media-content mt-50">
-            <div class="content">
-              <p>
-                <span class="icon-box-title">{{ .title }}</span>
+      {{- range $features }}
 
-                <span class="icon-box-text">{{ .text | markdownify }}</span>
-              </p>
-            </div>
+        <div class="columns">
+
+          <div class="column is-4">
+            <figure class="image">
+              <img src="{{ printf "/images/illustrations/features/%s.png" .icon | relURL }}" width = "400" height = "200">
+            </figure>
           </div>
-        </article>
-        {{- end }}
+
+          <div class="column is-8">
+            <article class="media icon-box">
+              <div class="media-content mt-50">
+                <div class="content">
+                  <p>
+                    <span class="icon-box-title">{{ .title }}</span>
+
+                    <span class="icon-box-text">{{ .text | markdownify }}</span>
+                  </p>
+                </div>
+              </div>
+            </article>
+          </div>
+
+        </div>
+
+      {{- end }}
+
+    </div>
   </div>
 </section>
