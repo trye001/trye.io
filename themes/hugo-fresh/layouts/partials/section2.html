@@ -3,15 +3,13 @@
 {{- $subtitle := index $section2 "subtitle" }}
 {{- $features := index $section2 "features" }}
 <section class="section section-feature-grey is-medium">
+
   <div class="container">
+
         {{- range $features }}
         <article class="media icon-box">
-          <figure class="media-left">
-            <p class="image">
-              <img src="{{ printf "/images/illustrations/features/%s.png" .icon | relURL }}">
-            </p>
-          </figure>
-          <div class="media-content">
+          <img src="{{ printf "/images/illustrations/features/%s.png" .icon | relURL }}" width = "400" height = "200">
+          <div class="media-content mt-50">
             <div class="content">
               <p>
                 <span class="icon-box-title">{{ .title }}</span>

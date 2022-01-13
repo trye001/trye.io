@@ -3,8 +3,8 @@ Fresh Footer
 ========================================================================== */
 
 footer.footer-dark {
-    background: $grey-4;
-    color: $grey-2;
+    background: $grey-1;
+    color: $grey-4;
     .columns {
         margin-top: 0px;
     }
@@ -15,7 +15,7 @@ footer.footer-dark {
     }
     .footer-column {
         .footer-header h3 {
-            color: $white;
+            color: $grey-4;
             font-weight:500;
             font-size: 1.2rem;
             text-transform: uppercase;
@@ -26,19 +26,19 @@ footer.footer-dark {
             line-height: 40px;
             font-size: 1.1rem;
             a {
-                color: $white;
+                color: $grey-5;
                 font-weight: 400;
                 transition: all 0.5s;
             }
             :hover {
-                color: $grey-2;
+                color: $grey-4;
             }
         }
         .level-item .icon {
             color: $secondary;
             transition: all 0.5s;
             :hover {
-                color: $white;
+                color: $grey-4;
             }
         }
     }

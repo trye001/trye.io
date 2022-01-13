@@ -6326,7 +6326,7 @@ div.nav-item.is-drop {
 Section Styles
 ========================================================================== */
 .section.section-light-grey {
-  background-color: #FDFDFD; }
+  background-color: #fff; }
 
 .section.section-feature-grey {
   background-color: #fff; }
@@ -6398,14 +6398,14 @@ Hero styles
 Fresh Footer
 ========================================================================== */
 footer.footer-dark {
-  background: #393939;
-  color: #AFAFAF; }
+  background: #353D44;
+  color: #A7ADB9; }
   footer.footer-dark .columns {
     margin-top: 0px; }
   footer.footer-dark .footer-logo img {
     height: 40px; }
   footer.footer-dark .footer-column .footer-header h3 {
-    color: #fff;
+    color: #A7ADB9;
     font-weight: 500;
     font-size: 1.2rem;
     text-transform: uppercase;
@@ -6415,16 +6415,16 @@ footer.footer-dark {
     line-height: 40px;
     font-size: 1.1rem; }
     footer.footer-dark .footer-column ul.link-list a {
-      color: #fff;
+      color: #C2C5CC;
       font-weight: 400;
       transition: all 0.5s; }
     footer.footer-dark .footer-column ul.link-list :hover {
-      color: #AFAFAF; }
+      color: #A7ADB9; }
   footer.footer-dark .footer-column .level-item .icon {
     color: #000000;
     transition: all 0.5s; }
     footer.footer-dark .footer-column .level-item .icon :hover {
-      color: #fff; }
+      color: #A7ADB9; }
 
 /* ==========================================================================
 Classes to change the feel of bulma buttons
@@ -7112,7 +7112,7 @@ body #backtotop a {
 Banner
 ========================================================================== */
 .banner {
-  background: #009579; }
+  background: #68737D; }
 
 .banner__content {
   padding: 16px;
