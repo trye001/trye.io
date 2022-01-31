@@ -40,17 +40,17 @@ params:
     title: It's all about engagement
     subtitle: And we get it
     features:
-    - title: Well-though mix between self-paced and cohort-based
+    - title: A well-thought mix between self-paced and cohort-based
       text: Hey, let's be honest, we all procrastinate. That's why the average completion rate for MOOCs is 5%. We know how tough it is to motivate ourselves every day to study. That's why we believe in the mix between cohort-based and self-paced learning.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: cohort
     - title: Learning by teaching
       text: >
-        Yeah, we heard so many times "learning by doing", "hands-on skills", "practical skills". Well, we think differently. Our vision is to learn by teaching. As Einstein once said, "If you can't explain it to a six year old, you don't understand it yourself.". And, hey, that's fun! Vice versa, if some concepts are difficult, do not hesitate to ask your mates for help.
+        Yeah, we heard so many times "learning by doing", "hands-on skills", "practical skills". Well, we think differently. Our vision is to learn by teaching. As Einstein once said, "If you can't explain it to a six-year-old, you don't understand it yourself.". And, hey, that's fun! Vice versa, if some concepts are difficult, do not hesitate to ask your mates for help.
       icon: teach
     - title: Personalized learning
       text: >
-        "Football is cool, but I am more into music. Why your examples are all about football?", "I do not need web-scrapping for my job, I'd rather study SQL in depth", "This concept is too difficult, I just want to understand the main points.". We hear you and we compile the content tailored to your needs. Further, How often do you catch yourself searching the topic in YouTube that you just read in the book? Our perception of various concepts is different -- something is much easier to understand by reading, something -- by watching the video and mimicking the code. That's why we give you the same material in different shapes (video, illustrations, examples, text, and VR), and you choose the most appropriate for you.
+        "Football is cool, but I am more into music. Why your examples are all about football?", "I do not need web-scrapping for my job, I'd rather study SQL in-depth", "This concept is too difficult, I just want to understand the main points.". We hear you and we compile the content tailored to your needs. Further, How often do you catch yourself searching the topic on YouTube that you just read in the book? Our perception of various concepts is different -- something is much easier to understand by reading, something -- by watching the video and mimicking the code. That's why we give you the same material in different shapes (video, illustrations, examples, text, and VR), and you choose the most appropriate for you.
       icon: ways
   section5: true
   footer:
