@@ -6088,16 +6088,16 @@ label.panel-block {
         .hero.is-danger.is-bold .navbar-menu {
           background-image: linear-gradient(141deg, #ff0561 0%, #ff3860 71%, #ff5257 100%); } }
   .hero.is-small .hero-body {
-    padding-bottom: 1.5rem;
-    padding-top: 1.5rem; }
+    padding-bottom: 0rem;
+    padding-top: 0rem; }
   @media screen and (min-width: 769px), print {
     .hero.is-medium .hero-body {
-      padding-bottom: 9rem;
-      padding-top: 9rem; } }
+      padding-bottom: 0rem;
+      padding-top: 0rem; } }
   @media screen and (min-width: 769px), print {
     .hero.is-large .hero-body {
-      padding-bottom: 18rem;
-      padding-top: 18rem; } }
+      padding-bottom: 0rem;
+      padding-top: 0rem; } }
   .hero.is-halfheight .hero-body, .hero.is-fullheight .hero-body {
     align-items: center;
     display: flex; }
@@ -6144,15 +6144,15 @@ label.panel-block {
 .hero-body {
   flex-grow: 1;
   flex-shrink: 0;
-  padding: 3rem 1.5rem; }
+  padding: 0rem 1.5rem; }
 
 .section {
-  padding: 3rem 1.5rem; }
+  padding: 0rem 1.5rem; }
   @media screen and (min-width: 1088px) {
     .section.is-medium {
-      padding: 9rem 1.5rem; }
+      padding: 0rem 1.5rem; }
     .section.is-large {
-      padding: 18rem 1.5rem; } }
+      padding: 0rem 1.5rem; } }
 .footer {
   background-color: #fafafa;
   padding: 0rem 1.5rem 0rem; }
@@ -6382,8 +6382,8 @@ img.pushed-image {
 Hero styles
 ========================================================================== */
 .hero-body {
-  padding-top: 6rem;
-  padding-bottom: 6rem; }
+  padding-top: 0rem;
+  padding-bottom: 0rem; }
   .hero-body .title, .hero-body .subtitle {
     font-family: 'Open Sans', sans-serif; }
   .hero-body .title.is-bold {
@@ -6392,7 +6392,7 @@ Hero styles
     color: #999; }
 
 .hero-foot img.partner-logo {
-  height: 70px; }
+  height: 0px; }
 
 /* ==========================================================================
 Fresh Footer
