@@ -17,7 +17,8 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description:
+  description: >
+    Learn data science fast and efficiently. Our vision is personalized learning: education plans tailored to your needs, level, and schedule. Learn by doing and teaching data analysis, statistics, machine learning, deep learning, and artificial intelligence.
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/logo.png
@@ -50,7 +51,7 @@ params:
       icon: teach
     - title: Personalized learning
       text: >
-        "Football is cool, but I am more into music. Why your examples are all about football?", "I do not need web-scrapping for my job, I'd rather study SQL in-depth", "This concept is too difficult, I just want to understand the main points.". We hear you and we compile the content tailored to your needs. Further, How often do you catch yourself searching the topic on YouTube that you just read in the book? Our perception of various concepts is different -- something is much easier to understand by reading, something -- by watching the video and mimicking the code. That's why we give you the same material in different shapes (video, illustrations, examples, text, and VR), and you choose the most appropriate for you.
+        "Football is cool, but I am more into music. Why your examples are all about football?", "I do not need web-scrapping for my job, I'd rather study SQL in-depth", "This concept is too difficult, I just want to understand the main points.". We hear you and we compile the content tailored to your needs. Further, how often do you catch yourself searching the topic on YouTube or Twitch that you just read in the book? Our perception of various concepts is different: something is much easier to understand by reading, something -- by watching a screencast and mimicking the code. That's why we give you the same material in different shapes (video, illustrations, examples, text, and VR), and you choose the most appropriate for you.
       icon: ways
   section5: true
   footer:
