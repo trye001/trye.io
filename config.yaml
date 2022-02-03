@@ -73,4 +73,8 @@ params:
       icon: github
     - link: https://twitter.com/trye_io
       icon: twitter
+    - link: https://www.tiktok.com/@trye_io
+      icon: tiktok
+    - link: https://www.youtube.com/channel/UCk0s7laTundGSzWAygP6yxQ
+      icon: youtube
     bulmalogo: false
